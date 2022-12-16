@@ -130,7 +130,10 @@ To control the brightness of the LED, we can use 1000[Hz] without inconvenience,
 
 Video shows the analogue/digital signal from the red and green LED in the MicroPython console
 
-[video](img/WhatsApp%20Video%202022-12-16%20at%2005.14.37.mp4)
+
+https://user-images.githubusercontent.com/107819898/208056631-195c739e-70a3-438d-ade8-68e409ed8db9.mp4
+
+
 
 ---
 # Another experiment now with a Green LED
@@ -163,7 +166,7 @@ Video shows the analogue/digital signal from the red and green LED in the MicroP
                 print(green_counter)
 
 
-[video](img/WhatsApp%20Video%202022-12-16%20at%2005.24.34.mp4)
+https://user-images.githubusercontent.com/107819898/208056760-f6542139-02d7-453c-9b49-d68139010440.mp4
 
 ---
 
@@ -204,5 +207,4 @@ With the potentiometer we regulate the PWM signal to LED, where previously took 
             print("Value in voltage:")
             print(convertion_potentiometer_to_voltage)
 
-
-[video](img/WhatsApp%20Video%202022-12-14%20at%2005.44.15.mp4)
+https://user-images.githubusercontent.com/107819898/208056834-130a4e84-0ed0-4687-8c38-b9735b202f5d.mp4
