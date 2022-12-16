@@ -123,4 +123,5 @@ We need 3 male - female Dupon cables
 
 ***Video showing how it works***
 
-[label](img/WhatsApp%20Video%202022-12-06%20at%2004.37.09.mp4)
+
+https://user-images.githubusercontent.com/107819898/208048737-c6a20bd5-6f5d-4fee-a4a7-13c4a286974b.mp4
