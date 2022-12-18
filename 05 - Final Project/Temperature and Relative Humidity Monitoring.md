@@ -205,4 +205,4 @@ An example of a connection is shown as follows.
 ---
 3.  A short video demonstrating the correct operation of the _weather station_, showing the display of the data and the triggering of the alarm when the set condition is reached.
 
-[link](img/WhatsApp%20Video%202022-12-18%20at%2004.18.24.mp4)
+https://user-images.githubusercontent.com/107819898/208287017-c726d49b-5cfe-4e27-a329-313ad04a35d0.mp4
